@@ -4,7 +4,7 @@ Opens Google's [Quick Share for Windows](https://www.android.com/better-together
 as a flyout above the system tray, like the Windows 11 quick settings, instead
 of a window in the middle of the screen.
 
-![Quick Share Flyout demo](https://raw.githubusercontent.com/0Allu/quick-share-flyout/main/assets/quick-share-flyout-demo.png)
+![Quick Share Flyout demo](https://raw.githubusercontent.com/0Allu/quick-share-flyout/main/assets/quick-share-flyout-demo.gif)
 
 Click the Quick Share tray icon to open or close the flyout. If the icon is in
 the tray overflow menu, the flyout opens beside the menu.
