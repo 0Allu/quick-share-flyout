@@ -1,5 +1,11 @@
 # Quick Share Flyout
 
+![Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmods.windhawk.net%2Fcatalog.json&query=%24.mods%5B'quick-share-flyout'%5D.details.users&label=users&style=for-the-badge)
+
+[Official Windhawk mod repository](https://github.com/ramensoftware/windhawk-mods/blob/main/mods/quick-share-flyout.wh.cpp)
+
+[Official Windhawk mod website](https://windhawk.net/mods/quick-share-flyout)
+
 Opens Google's Quick Share app as a flyout above the system tray, like the
 Windows 11 quick settings, instead of a window in the middle of the screen.
 
